@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-892-computational-models-of-discourse-spring-2004/ac38cb3767e69d5d62188be5c48f4dbf_lec18.pdf
+file: /media/courses/6-892-computational-models-of-discourse-spring-2004/ac38cb3767e69d5d62188be5c48f4dbf_lec18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec18.pdf
 uid: ac38cb37-67e6-9d5d-6218-8be5c48f4dbf

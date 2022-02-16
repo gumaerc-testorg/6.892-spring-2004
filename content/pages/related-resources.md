@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 891779c5-96e0-76ec-ae6f-b59d56e0da88
 ---
