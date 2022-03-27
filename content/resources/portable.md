@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7a3268f4-424f-06fb-5bd3-443d918b48da
 resourcetype: Document
 title: portable.pdf
 uid: acfc2e5d-e11e-d8f7-37c8-b7076ca2ac23
