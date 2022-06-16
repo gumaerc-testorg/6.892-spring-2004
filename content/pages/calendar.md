@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The calendar section gives us an overview of the lectures covered in
+  the course and project presentation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

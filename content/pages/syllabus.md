@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'The syllabus contains an overview on automatic discourse processing,
+  grading criteria, and requirements. Each particpant is supposed to complete a project
+  in consultation with the professor. The projects involve are: a survey of background
+  literature, implementation of an algorithm for discource processing, and empirical
+  evaluation of the algorithm performance.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,7 +28,7 @@ This subject qualifies as an Artificial Intelligence and Applications concentrat
 Readings
 --------
 
-Course readings are available in the [readings]({{< baseurl >}}/pages/readings) section.
+Course readings are available in the {{% resource_link 7a3268f4-424f-06fb-5bd3-443d918b48da "readings" %}} section.
 
 Requirements
 ------------

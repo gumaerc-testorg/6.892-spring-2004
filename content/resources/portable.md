@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-892-computational-models-of-discourse-spring-2004/acfc2e5de11ed8f737c8b7076ca2ac23_portable.pdf
+file: /courses/6-892-computational-models-of-discourse-spring-2004/acfc2e5de11ed8f737c8b7076ca2ac23_portable.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

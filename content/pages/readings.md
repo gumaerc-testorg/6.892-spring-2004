@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides list of additional readings and external links.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -103,7 +104,7 @@ Cohesion and Local Coherence: Lexical Chains, Centering Theory; Applications to 
 {{< tdopen >}}
 
 
-Grosz, Barbara, Aravind Joshi, and Scott Weinstein. "Centering: A Framework for Modelling the Local Coherence of Discourse." _Computational Linguistics_ 21, no. 2 (1995): 203-225. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.msu.edu/course/lin/837/Grosz;Centering.pdf))
+Grosz, Barbara, Aravind Joshi, and Scott Weinstein. "Centering: A Framework for Modelling the Local Coherence of Discourse." _Computational Linguistics_ 21, no. 2 (1995): 203-225. ([PDF](https://www.msu.edu/course/lin/837/Grosz;Centering.pdf))
 
 Halliday, Michael, and Ruqaiya Hasan. _Cohesion in English_. London, UK: Longman Publishing Group, 1976. ISBN: 0582550416.
 
