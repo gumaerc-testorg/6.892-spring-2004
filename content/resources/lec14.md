@@ -6,6 +6,7 @@ file: /courses/6-892-computational-models-of-discourse-spring-2004/61c2dbc63048f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec14.pdf
 uid: 61c2dbc6-3048-f928-7a7a-99a2bdd05963
 ---
 Lecture presentation covering the following topics: properties of human dialogs, and formalization of these properties required for system building.
-

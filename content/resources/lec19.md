@@ -5,6 +5,7 @@ file: /courses/6-892-computational-models-of-discourse-spring-2004/ae404aff73af5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec19.pdf
 uid: ae404aff-73af-507b-07c2-d5c606045606
 ---
 Lecture presentation.
-

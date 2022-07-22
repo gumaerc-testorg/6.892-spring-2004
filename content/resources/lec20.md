@@ -5,6 +5,7 @@ file: /courses/6-892-computational-models-of-discourse-spring-2004/cbb797320ddd1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec20.pdf
 uid: cbb79732-0ddd-1bdb-7994-2d03a5acd110
 ---
 Lecture presentation.
-

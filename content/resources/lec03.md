@@ -6,6 +6,7 @@ file: /courses/6-892-computational-models-of-discourse-spring-2004/e29b6ff9a4209
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec03.pdf
 uid: e29b6ff9-a420-9b96-df99-904e434b2c87
 ---
 Lecture presentation covering the following topics: hierarchical segmentation, HMM-based segmentation, and supervised segmentation.
-
