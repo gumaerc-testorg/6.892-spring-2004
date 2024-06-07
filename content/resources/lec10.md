@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: summarization (content
   selection, evaluation), and techniques: alignment, classification, rewriting.'
 file: /courses/6-892-computational-models-of-discourse-spring-2004/08272bf5a87aeb36868219a513e43640_lec10.pdf
+file_size: 156806
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

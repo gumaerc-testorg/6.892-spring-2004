@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/6-892-computational-models-of-discourse-spring-2004/ae404aff73af507b07c2d5c606045606_lec19.pdf
+file_size: 109615
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

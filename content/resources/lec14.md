@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: properties of human
   dialogs, and formalization of these properties required for system building.'
 file: /courses/6-892-computational-models-of-discourse-spring-2004/61c2dbc63048f9287a7a99a2bdd05963_lec14.pdf
+file_size: 80790
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
