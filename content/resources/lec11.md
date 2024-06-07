@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: time marker disambiguation,
   and event ordering.'
 file: /courses/6-892-computational-models-of-discourse-spring-2004/da2b74828e6929720a03716737a3da1c_lec11.pdf
+file_size: 97951
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

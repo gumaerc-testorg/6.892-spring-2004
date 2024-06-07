@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: plan-inferential
   interpretation, and cue-based interpretation.'
 file: /courses/6-892-computational-models-of-discourse-spring-2004/3d49078e721c08dc0b047367336f37a7_lec15.pdf
+file_size: 100734
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
