@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: what is segmentation,
   human agreement on segmentation and evaluation, segmentation algorithms, and segmentation
   for different genres: text, meetings, broadcasts.'
-file: /courses/6-892-computational-models-of-discourse-spring-2004/434c44c4c6c8f51d1a08d5b483894c1d_lec02.pdf
+file: /ol-ocw-studio-app/courses/6-892-computational-models-of-discourse-spring-2004/434c44c4c6c8f51d1a08d5b483894c1d_lec02.pdf
 file_size: 154251
 file_type: application/pdf
 learning_resource_types:
