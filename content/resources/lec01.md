@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: discourse processing:
   motivation and background, discourse theories, applications, and requirements.'
-file: /ol-ocw-studio-app/courses/6-892-computational-models-of-discourse-spring-2004/77072bd780a5d8a3d624912447b2d339_lec01.pdf
+file: /courses/6-892-computational-models-of-discourse-spring-2004/77072bd780a5d8a3d624912447b2d339_lec01.pdf
 file_size: 107406
 file_type: application/pdf
 learning_resource_types:
