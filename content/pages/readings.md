@@ -58,7 +58,7 @@ Yaari, Yaacov. "Segmentation of expository texts by hierarchical agglomerative c
 
 van Mulbregt, P., I. Carp, L. Gillick, S. Lowe, and J. Yamron. "Segmentation of Automatically Transcribed Broadcast News Text." *Proceedings of the ICASSP*.
 
-Galley, Michel, Kathleen McKeown, Eric Fosler-Lussier, and Hongyan Jing. "[Discourse Segmentation of Multi-Party Conversation](http://www1.cs.columbia.edu/~galley/)." *Proceedings of the ACL*, 2003.
+Galley, Michel, Kathleen McKeown, Eric Fosler-Lussier, and Hongyan Jing. "[Discourse Segmentation of Multi-Party Conversation](https://aclanthology.org/P03-1071/)." *Proceedings of the ACL*, 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -147,7 +147,7 @@ Barzilay, Regina, and Lillian Lee. "Catching the Drift: Probabilistic Content Mo
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-Rhetorical Structure Theory   
+Rhetorical Structure Theory    
 Guest Speaker: Florian Wolf
 {{< tdclose >}}{{< tdopen >}}
 
@@ -186,7 +186,7 @@ Lapata, Mirella, and Alex Lascaridis. "Inferring Sentence Internal Temporal Info
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
-Prosody and Discourse   
+Prosody and Discourse    
 Guest Speaker: Chao Wang
 {{< tdclose >}}{{< tdopen >}}
 
