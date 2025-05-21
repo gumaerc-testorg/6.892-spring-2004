@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-892-computational-models-of-discourse-spring-2004/bb615f20b05cd50a411d67ed0a2b74da_chp_conv_system.jpg
+file: /courses/6-892-computational-models-of-discourse-spring-2004/bb615f20b05cd50a411d67ed0a2b74da_chp_conv_system.jpg
 file_size: 34869
 file_type: image/jpeg
 image_metadata:
