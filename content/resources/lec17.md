@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation courtesy of Stephanie Seneff. Used with permission.
-file: /ol-ocw-studio-app/courses/6-892-computational-models-of-discourse-spring-2004/cf7a292501b574b155e288c673b34d28_lec17.pdf
+file: /courses/6-892-computational-models-of-discourse-spring-2004/cf7a292501b574b155e288c673b34d28_lec17.pdf
 file_size: 573443
 file_type: application/pdf
 learning_resource_types:

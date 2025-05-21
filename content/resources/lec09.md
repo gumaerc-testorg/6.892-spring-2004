@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: Model elements:
   Binary Relations, Compositionality Principle, and Requirements: Stability and Reproducibility
   of an Annotation Scheme, Expressive Power of a Model.'
-file: /ol-ocw-studio-app/courses/6-892-computational-models-of-discourse-spring-2004/6ea9cdfb0233fbb730442d53ef6bd312_lec09.pdf
+file: /courses/6-892-computational-models-of-discourse-spring-2004/6ea9cdfb0233fbb730442d53ef6bd312_lec09.pdf
 file_size: 85454
 file_type: application/pdf
 learning_resource_types:
