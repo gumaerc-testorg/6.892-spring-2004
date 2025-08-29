@@ -4,7 +4,7 @@ description: 'Lecture presentation covering the following topics: discourse proc
   informational approach, intentional approach, linguistic structure, attentional
   structure, patterns of entity distribution, transitions, intention hierarchy, coherent
   discourse, and plan representation.'
-file: /courses/6-892-computational-models-of-discourse-spring-2004/58e0bcaf80546e32f4c3188d1c1587df_lec13.pdf
+file: /ol-ocw-studio-app/courses/6-892-computational-models-of-discourse-spring-2004/58e0bcaf80546e32f4c3188d1c1587df_lec13.pdf
 file_size: 95417
 file_type: application/pdf
 learning_resource_types:
