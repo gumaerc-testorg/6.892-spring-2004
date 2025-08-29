@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation covering the following topics: minimizing amounts
   of training data, Hobbs? algorithm, and anaphora resolution in dialogs.'
-file: /courses/6-892-computational-models-of-discourse-spring-2004/879f8aae163a2bf3d3e1c2d131f7355a_lec06.pdf
+file: /ol-ocw-studio-app/courses/6-892-computational-models-of-discourse-spring-2004/879f8aae163a2bf3d3e1c2d131f7355a_lec06.pdf
 file_size: 109819
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /courses/6-892-computational-models-of-discourse-spring-2004/1fbaface5a8fbc20cfb62cd3011da44e_lec21.pdf
+file: /ol-ocw-studio-app/courses/6-892-computational-models-of-discourse-spring-2004/1fbaface5a8fbc20cfb62cd3011da44e_lec21.pdf
 file_size: 105888
 file_type: application/pdf
 learning_resource_types:
